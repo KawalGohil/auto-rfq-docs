@@ -1,6 +1,3 @@
-
-
-# Auto-RFQ System Architecture
 **Tags:** #architecture #overview 
 **Status:** Active (MVP)
 
