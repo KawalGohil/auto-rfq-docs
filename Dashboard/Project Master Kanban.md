@@ -13,7 +13,6 @@ kanban-plugin: board
 
 ## To-Do
 
-- [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
 - [ ] Draft beta-testing pitch script for local machine shops in Gandhinagar
 - [ ] Set up Pytest suite for backend E2E manual test steps
 
@@ -21,6 +20,7 @@ kanban-plugin: board
 ## Active
 
 - [ ] Establish team Obsidian Git Sync and Workspace
+- [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
 
 
 ## Testing/Review
