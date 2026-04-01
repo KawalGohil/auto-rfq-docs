@@ -15,6 +15,7 @@ kanban-plugin: board
 
 - [ ] Draft beta-testing pitch script for local machine shops in Gandhinagar
 - [ ] Set up Pytest suite for backend E2E manual test steps
+- [ ] Fix UI (Numerical to Text based)
 
 
 ## Active
