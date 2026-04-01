@@ -26,6 +26,7 @@ kanban-plugin: board
 
 - [ ] Manual E2E testing required
 - [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
+- [ ] Multiple pages to be uploaded and tested
 
 
 ## Completed
