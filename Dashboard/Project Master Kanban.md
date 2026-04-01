@@ -20,12 +20,12 @@ kanban-plugin: board
 ## Active
 
 - [ ] Establish team Obsidian Git Sync and Workspace
-- [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
 
 
 ## Testing/Review
 
 - [ ] Manual E2E testing required
+- [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
 
 
 ## Completed
