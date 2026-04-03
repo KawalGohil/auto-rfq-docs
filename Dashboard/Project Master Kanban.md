@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Automated DFM (Design for Manufacturability) Warnings
 - [ ] Explore local fine-tuning dataset generation (Synthetic DXFs)
 - [ ] Bounding Box visual grounding for extracted dimensions_
+- [ ] Azure Foundry
 
 
 ## To-Do
@@ -18,6 +19,7 @@ kanban-plugin: board
 - [ ] Fix UI (Numerical to Text based)
 - [ ] Build an admin panel
 - [ ] End-User-Agreement
+- [ ] Find out which model is better
 
 
 ## Active
