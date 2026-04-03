@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Build an admin panel
 - [ ] End-User-Agreement
 - [ ] Find out which model is better
+- [ ] Scrapper for websites
 
 
 ## Active
