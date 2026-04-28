@@ -24,11 +24,11 @@ kanban-plugin: board
 - [ ] UI for sign up page as well as log in
 - [ ] Logs for everything
 - [ ] Token can be reused until an account is created with it
+- [ ] Seed should not create tables but migrations should
 
 
 ## Active
 
-- [ ] Establish team Obsidian Git Sync and Workspace
 - [ ] postgres db
 - [ ] Log in via invitation link
 - [ ] Db and invite link
@@ -47,6 +47,7 @@ kanban-plugin: board
 - [ ] Implement Next.js Editable UI (Human-in-the-Loop)
 - [ ] 411 content length req
 - [ ] Enable Multi-Page PDF unpacking for Gemini 2.5 Flash_
+- [ ] Establish team Obsidian Git Sync and Workspace
 
 
 
