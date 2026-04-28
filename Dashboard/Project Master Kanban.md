@@ -23,6 +23,7 @@ kanban-plugin: board
 - [ ] Build an admin panel
 - [ ] UI for sign up page as well as log in
 - [ ] Logs for everything
+- [ ] Token can be reused until an account is created with it
 
 
 ## Active
@@ -30,7 +31,6 @@ kanban-plugin: board
 - [ ] Establish team Obsidian Git Sync and Workspace
 - [ ] postgres db
 - [ ] Log in via invitation link
-- [ ] 411 content length req
 - [ ] Db and invite link
 
 
@@ -45,6 +45,7 @@ kanban-plugin: board
 
 - [ ] Decouple Excel Export to JSON POST
 - [ ] Implement Next.js Editable UI (Human-in-the-Loop)
+- [ ] 411 content length req
 - [ ] Enable Multi-Page PDF unpacking for Gemini 2.5 Flash_
 
 
