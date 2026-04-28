@@ -20,14 +20,17 @@ kanban-plugin: board
 - [ ] End-User-Agreement
 - [ ] Find out which model is better
 - [ ] Scrapper for websites
-- [ ] postgres db
 - [ ] Build an admin panel
-- [ ] Log in via invitation link
+- [ ] UI for sign up page as well as log in
+- [ ] Logs for everything
 
 
 ## Active
 
 - [ ] Establish team Obsidian Git Sync and Workspace
+- [ ] postgres db
+- [ ] Log in via invitation link
+- [ ] 411 content length req
 - [ ] Db and invite link
 
 
