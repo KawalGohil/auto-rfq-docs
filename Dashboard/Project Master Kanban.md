@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] Logs for everything
 - [ ] Token can be reused until an account is created with it
 - [ ] Seed should not create tables but migrations should
+- [ ] Extracted files should be stored alongside the user that created it
 
 
 ## Active
