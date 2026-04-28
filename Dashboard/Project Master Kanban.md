@@ -23,6 +23,7 @@ kanban-plugin: board
 - [ ] Build an admin panel
 - [ ] UI for sign up page as well as log in
 - [ ] Log in via invitation link
+- [ ] CI/CD pipeline
 
 
 ## Active
