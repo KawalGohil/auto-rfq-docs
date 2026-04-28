@@ -35,7 +35,6 @@ kanban-plugin: board
 
 - [ ] Manual E2E testing required
 - [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
-- [ ] Db and invite link
 - [ ] Multiple pages to be uploaded and tested
 
 
@@ -49,6 +48,7 @@ kanban-plugin: board
 - [ ] Establish team Obsidian Git Sync and Workspace
 - [ ] postgres db
 - [ ] Token can be reused until an account is created with it
+- [ ] Db and invite link
 
 
 
