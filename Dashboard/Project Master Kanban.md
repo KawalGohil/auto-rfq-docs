@@ -22,14 +22,12 @@ kanban-plugin: board
 - [ ] Find out which model is better
 - [ ] Build an admin panel
 - [ ] UI for sign up page as well as log in
+- [ ] Log in via invitation link
 
 
 ## Active
 
-- [ ] Log in via invitation link
-- [ ] Token can be reused until an account is created with it
 - [ ] Extracted files should be stored alongside the user that created it
-- [ ] Db and invite link
 - [ ] Logs for everything
 
 
@@ -37,6 +35,7 @@ kanban-plugin: board
 
 - [ ] Manual E2E testing required
 - [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
+- [ ] Db and invite link
 - [ ] Multiple pages to be uploaded and tested
 
 
@@ -49,6 +48,7 @@ kanban-plugin: board
 - [ ] Seed should not create tables but migrations should
 - [ ] Establish team Obsidian Git Sync and Workspace
 - [ ] postgres db
+- [ ] Token can be reused until an account is created with it
 
 
 
