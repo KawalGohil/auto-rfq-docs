@@ -16,23 +16,21 @@ kanban-plugin: board
 
 - [ ] Draft beta-testing pitch script for local machine shops in Gandhinagar
 - [ ] Set up Pytest suite for backend E2E manual test steps
-- [ ] Fix UI (Numerical to Text based)
 - [ ] End-User-Agreement
-- [ ] Find out which model is better
+- [ ] Fix UI (Numerical to Text based)
 - [ ] Scrapper for websites
+- [ ] Find out which model is better
 - [ ] Build an admin panel
 - [ ] UI for sign up page as well as log in
-- [ ] Logs for everything
-- [ ] Token can be reused until an account is created with it
-- [ ] Seed should not create tables but migrations should
-- [ ] Extracted files should be stored alongside the user that created it
 
 
 ## Active
 
-- [ ] postgres db
 - [ ] Log in via invitation link
+- [ ] Token can be reused until an account is created with it
+- [ ] Extracted files should be stored alongside the user that created it
 - [ ] Db and invite link
+- [ ] Logs for everything
 
 
 ## Testing/Review
@@ -48,7 +46,9 @@ kanban-plugin: board
 - [ ] Implement Next.js Editable UI (Human-in-the-Loop)
 - [ ] 411 content length req
 - [ ] Enable Multi-Page PDF unpacking for Gemini 2.5 Flash_
+- [ ] Seed should not create tables but migrations should
 - [ ] Establish team Obsidian Git Sync and Workspace
+- [ ] postgres db
 
 
 
