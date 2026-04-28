@@ -28,6 +28,7 @@ kanban-plugin: board
 ## Active
 
 - [ ] Establish team Obsidian Git Sync and Workspace
+- [ ] Db and invite link
 
 
 ## Testing/Review
