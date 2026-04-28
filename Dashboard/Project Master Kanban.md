@@ -22,7 +22,7 @@ kanban-plugin: board
 - [ ] Find out which model is better
 - [ ] Build an admin panel
 - [ ] UI for sign up page as well as log in
-- [ ] Log in via invitation link
+- [ ] Login via invitation link (After UI is created)
 - [ ] CI/CD pipeline
 
 
