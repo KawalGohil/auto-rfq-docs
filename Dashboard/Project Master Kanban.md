@@ -20,7 +20,6 @@ kanban-plugin: board
 - [ ] Fix UI (Numerical to Text based)
 - [ ] Scrapper for websites
 - [ ] Find out which model is better
-- [ ] Build an admin panel
 - [ ] UI for sign up page as well as log in
 - [ ] Login via invitation link (After UI is created)
 - [ ] CI/CD pipeline
@@ -31,6 +30,7 @@ kanban-plugin: board
 
 - [ ] Extracted files should be stored alongside the user that created it
 - [ ] Logs for everything
+- [ ] Build an admin panel
 
 
 ## Testing/Review
