@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] UI for sign up page as well as log in
 - [ ] Login via invitation link (After UI is created)
 - [ ] CI/CD pipeline
+- [ ] Memory Bottleneck (service.py)
 
 
 ## Active
