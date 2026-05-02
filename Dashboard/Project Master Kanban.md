@@ -31,11 +31,11 @@ kanban-plugin: board
 
 - [ ] Logs for everything
 - [ ] Build an admin panel
-- [ ] Folder naming in cloudflare
 
 
 ## Testing/Review
 
+- [ ] Folder naming in cloudflare
 
 
 ## Completed
