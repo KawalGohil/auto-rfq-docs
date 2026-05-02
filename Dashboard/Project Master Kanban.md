@@ -7,37 +7,35 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Automated DFM (Design for Manufacturability) Warnings
+- [ ] Manual E2E testing required
 - [ ] Explore local fine-tuning dataset generation (Synthetic DXFs)
 - [ ] Bounding Box visual grounding for extracted dimensions_
+- [ ] Draft beta-testing pitch script for local machine shops in Gandhinagar
 - [ ] Azure Foundry
+- [ ] Set up Pytest suite for backend E2E manual test steps
+- [ ] End-User-Agreement
 
 
 ## To-Do
 
-- [ ] Draft beta-testing pitch script for local machine shops in Gandhinagar
-- [ ] Set up Pytest suite for backend E2E manual test steps
-- [ ] End-User-Agreement
+- [ ] Multiple pages to be uploaded and tested
 - [ ] Fix UI (Numerical to Text based)
 - [ ] Scrapper for websites
 - [ ] Find out which model is better
 - [ ] UI for sign up page as well as log in
 - [ ] Login via invitation link (After UI is created)
 - [ ] CI/CD pipeline
-- [ ] Folder naming in cloudflare
 
 
 ## Active
 
-- [ ] Extracted files should be stored alongside the user that created it
 - [ ] Logs for everything
 - [ ] Build an admin panel
+- [ ] Folder naming in cloudflare
 
 
 ## Testing/Review
 
-- [ ] Manual E2E testing required
-- [ ] Implement Missing Data Highlighting in Next.js (Red borders for null values)
-- [ ] Multiple pages to be uploaded and tested
 
 
 ## Completed
@@ -51,6 +49,7 @@ kanban-plugin: board
 - [ ] postgres db
 - [ ] Token can be reused until an account is created with it
 - [ ] Db and invite link
+- [ ] Extracted files should be stored alongside the user that created it
 
 
 
