@@ -19,25 +19,26 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] Multiple pages to be uploaded and tested
+- [ ] CI/CD pipeline
 - [ ] Fix UI (Numerical to Text based)
 - [ ] Scrapper for websites
 - [ ] Find out which model is better
-- [ ] UI for sign up page as well as log in
 - [ ] Login via invitation link (After UI is created)
-- [ ] CI/CD pipeline
 - [ ] Memory Bottleneck (service.py)
-- [ ] Admin only api to get all user and should be paginated
+- [ ] Gemini's response regarding token usage should be stored
 
 
 ## Active
 
 - [ ] Logs for everything
 - [ ] Build an admin panel
+- [ ] UI for sign up page as well as log in
 
 
 ## Testing/Review
 
 - [ ] Folder naming in cloudflare
+- [ ] Admin only api to get all user and should be paginated
 
 
 ## Completed
