@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] Login via invitation link (After UI is created)
 - [ ] Memory Bottleneck (service.py)
 - [ ] Gemini's response regarding token usage should be stored
+- [ ] Client side UI will take inspo from admin side UI to lower time to create it
 
 
 ## Active
