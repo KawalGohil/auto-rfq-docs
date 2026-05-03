@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] Login via invitation link (After UI is created)
 - [ ] CI/CD pipeline
 - [ ] Memory Bottleneck (service.py)
+- [ ] Admin only api to get all user and should be paginated
 
 
 ## Active
