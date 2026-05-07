@@ -23,9 +23,10 @@ kanban-plugin: board
 - [ ] Fix UI (Numerical to Text based)
 - [ ] Scrapper for websites
 - [ ] Find out which model is better
-- [ ] Login via invitation link (After UI is created)
 - [ ] Memory Bottleneck (service.py)
 - [ ] Nvidia NIM integration
+- [ ] Get api for user data from db
+- [ ] Sign up, log in, history, upload for client
 
 
 ## Active
