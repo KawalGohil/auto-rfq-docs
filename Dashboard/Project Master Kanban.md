@@ -25,8 +25,7 @@ kanban-plugin: board
 - [ ] Find out which model is better
 - [ ] Login via invitation link (After UI is created)
 - [ ] Memory Bottleneck (service.py)
-- [ ] Gemini's response regarding token usage should be stored
-- [ ] Client side UI will take inspo from admin side UI to lower time to create it
+- [ ] Nvidia NIM integration
 
 
 ## Active
@@ -34,6 +33,8 @@ kanban-plugin: board
 - [ ] Logs for everything
 - [ ] Build an admin panel
 - [ ] UI for sign up page as well as log in
+- [ ] Gemini's response regarding token usage should be stored
+- [ ] Client side UI will take inspo from admin side UI to lower time to create it
 
 
 ## Testing/Review
