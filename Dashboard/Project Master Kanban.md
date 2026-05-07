@@ -31,9 +31,8 @@ kanban-plugin: board
 ## Active
 
 - [ ] Logs for everything
-- [ ] Build an admin panel
-- [ ] UI for sign up page as well as log in
 - [ ] Gemini's response regarding token usage should be stored
+- [ ] UI for sign up page as well as log in
 - [ ] Client side UI will take inspo from admin side UI to lower time to create it
 
 
@@ -41,6 +40,7 @@ kanban-plugin: board
 
 - [ ] Folder naming in cloudflare
 - [ ] Admin only api to get all user and should be paginated
+- [ ] Build an admin panel
 
 
 ## Completed
