@@ -25,7 +25,6 @@ kanban-plugin: board
 - [ ] Find out which model is better
 - [ ] Memory Bottleneck (service.py)
 - [ ] Nvidia NIM integration
-- [ ] Get api for user data from db
 - [ ] Username does not append in cloudfare while storing files
 
 
@@ -36,6 +35,7 @@ kanban-plugin: board
 - [ ] UI for sign up page as well as log in
 - [ ] Client side UI will take inspo from admin side UI to lower time to create it
 - [ ] Sign up, log in, history, upload for client
+- [ ] Get api for user data from db
 
 
 ## Testing/Review
