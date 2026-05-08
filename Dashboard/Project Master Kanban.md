@@ -26,7 +26,6 @@ kanban-plugin: board
 - [ ] Memory Bottleneck (service.py)
 - [ ] Nvidia NIM integration
 - [ ] Get api for user data from db
-- [ ] Sign up, log in, history, upload for client
 
 
 ## Active
@@ -35,6 +34,7 @@ kanban-plugin: board
 - [ ] Gemini's response regarding token usage should be stored
 - [ ] UI for sign up page as well as log in
 - [ ] Client side UI will take inspo from admin side UI to lower time to create it
+- [ ] Sign up, log in, history, upload for client
 
 
 ## Testing/Review
