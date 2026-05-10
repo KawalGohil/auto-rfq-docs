@@ -27,7 +27,6 @@ kanban-plugin: board
 - [ ] Nvidia NIM integration
 - [ ] Username does not append in cloudfare while storing files
 - [ ] Extracted files should be editable
-- [ ] Export function needed in extraction/history
 
 
 ## Active
@@ -38,6 +37,7 @@ kanban-plugin: board
 - [ ] Client side UI will take inspo from admin side UI to lower time to create it
 - [ ] Sign up, log in, history, upload for client
 - [ ] Get api for user data from db
+- [ ] Export function needed in extraction/history
 
 
 ## Testing/Review
