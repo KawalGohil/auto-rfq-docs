@@ -26,25 +26,24 @@ kanban-plugin: board
 - [ ] Memory Bottleneck (service.py)
 - [ ] Nvidia NIM integration
 - [ ] Username does not append in cloudfare while storing files
-- [ ] Extracted files should be editable
 
 
 ## Active
 
 - [ ] Logs for everything
+- [ ] Extracted data should be editable
+- [ ] Prompt refining
+- [ ] Multipage pdf upload
+
+
+## Testing/Review
+
 - [ ] Gemini's response regarding token usage should be stored
 - [ ] UI for sign up page as well as log in
 - [ ] Client side UI will take inspo from admin side UI to lower time to create it
 - [ ] Sign up, log in, history, upload for client
 - [ ] Get api for user data from db
 - [ ] Export function needed in extraction/history
-
-
-## Testing/Review
-
-- [ ] Folder naming in cloudflare
-- [ ] Admin only api to get all user and should be paginated
-- [ ] Build an admin panel
 
 
 ## Completed
@@ -59,6 +58,9 @@ kanban-plugin: board
 - [ ] Token can be reused until an account is created with it
 - [ ] Db and invite link
 - [ ] Extracted files should be stored alongside the user that created it
+- [ ] Build an admin panel
+- [ ] Admin only api to get all user and should be paginated
+- [ ] Folder naming in cloudflare
 
 
 
