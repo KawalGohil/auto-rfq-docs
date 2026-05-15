@@ -31,7 +31,6 @@ kanban-plugin: board
 ## Active
 
 - [ ] Logs for everything
-- [ ] Extracted data should be editable
 - [ ] Prompt refining
 - [ ] Multipage pdf upload
 
@@ -44,6 +43,7 @@ kanban-plugin: board
 - [ ] Sign up, log in, history, upload for client
 - [ ] Get api for user data from db
 - [ ] Export function needed in extraction/history
+- [ ] Extracted data should be editable
 
 
 ## Completed
